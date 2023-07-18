@@ -1,0 +1,103 @@
+.capitalParkNeigbour{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#atulHome{
+    display: flex;
+    justify-content: center;
+}
+
+#mustaffa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#swathi{
+    display: flex;
+    align-items: center;
+}
+
+#atulHome h2{
+    color:orchid;
+    
+}
+
+#swathi h2{
+    background-color: blueviolet;
+}
+
+#mustaffa h2{
+    border:2px solid black;
+}
+
+.size{
+    height:200px;
+    width:200px;
+    border:2px solid red;
+}
+
+.one{
+    border:2px solid black;
+    height:20px;
+    margin-top: 20px;
+}
+
+.ab{
+    margin-top: 40px;
+    padding:20px;
+}
+.two{
+    border:2px solid blue;
+    height:20px;
+    padding: 20px;
+}
+
+
+.cricketField{
+    border: 2px double red;
+    height:80vh;
+    border-radius: 60%;
+    position: relative;
+    opacity:0.8;
+    background-color: rgb(25, 137, 25);
+}
+
+.pitch{
+    position: absolute;
+    left:350px;
+    top: 100px;
+    background-color: rgb(119, 139, 79);
+    height: 50px;
+    width:200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.abc{
+    display: flex;
+    justify-content: space-between;
+}
+
+#line1{
+    width:1px;
+    background-color: white;
+    height:50px;
+}
+
+#line2{
+    width:1px;
+    background-color: white;
+    height:50px;
+
+}
+
+
+
+
+
+
+
